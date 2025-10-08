@@ -5,3 +5,4 @@
 # git status (Verificar situação do repositório atual, arquivos que foram editados e etc)
 # git add . (adicionar todas mudanças de uma vez ao repositório local.)
 # git log (verificar histórico de alterações no sistema)
+# git commit -m "Alguma Mensagem das alterações" (Commitar o código)
