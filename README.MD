@@ -9,3 +9,10 @@
 # git commit -m "Alguma Mensagem das alterações" (Commitar o código)
 # git push origin main (Enviar de fato o projeto para o github na nuvem)
 # git pull origin main (Receber os commits realizados)
+
+# Sequencias mais utilizada:
+# git status: verificar quais arquivos foram modificados
+# git add: adicionar as mudanças
+# git commit: registrar as mudanças no repositório
+# git push: enviar as mudanças para o repositório remoto
+# git pull: realizar o download das alterações que foram feitas no repositório remoto
