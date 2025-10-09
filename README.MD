@@ -7,4 +7,5 @@
 # git add . (adicionar todas mudanças de uma vez ao repositório local.)
 # git log (verificar histórico de alterações no sistema)
 # git commit -m "Alguma Mensagem das alterações" (Commitar o código)
-# git push origin main
+# git push origin main (Enviar de fato o projeto para o github na nuvem)
+# git pull origin main (Receber os commits realizados)
