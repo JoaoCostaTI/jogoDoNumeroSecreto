@@ -19,3 +19,4 @@
 
 # git revert idDoCommit (Reverter um commit já realizado)
 # git reset --hard idDoCommitAnterior (Apagar totalmente o ultimo commit)
+# 
