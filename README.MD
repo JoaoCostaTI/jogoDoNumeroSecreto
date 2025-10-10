@@ -16,5 +16,3 @@
 # git commit: registrar as mudanças no repositório
 # git push: enviar as mudanças para o repositório remoto
 # git pull: realizar o download das alterações que foram feitas no repositório remoto
-
-# TESTANDO DESFAZER COMMIT
