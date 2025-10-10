@@ -17,4 +17,5 @@
 # git push: enviar as mudanças para o repositório remoto
 # git pull: realizar o download das alterações que foram feitas no repositório remoto
 
-# git revert idDoCommit
+# git revert idDoCommit (Reverter um commit já realizado)
+# git reset --hard idDoCommitAnterior (Apagar totalmente o ultimo commit)
